@@ -20,6 +20,5 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 Contributions to this benchmarking project are welcome. If you have any suggestions, improvements, or additional benchmark results, feel free to open an issue or submit a pull request.
 
 # Contact
-If you have any questions or need further information, please contact the project maintainers at 
-
+If you have any questions or need further information, please contact the project maintainers at () if you want to test it out.
 Happy Bombing!
