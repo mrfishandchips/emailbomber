@@ -7,7 +7,7 @@ The project aims to measure the sending rate of emails and SMS messages using th
 Bombing Results
 After conducting extensive tests, the benchmarking results indicate that the provided solution can achieve a sending rate of around 2000 emails or SMS messages per minute. Please note that the actual sending rate may vary depending on various factors such as network conditions and server capabilities.
 
-![Results]([https://ibb.co/jy5k9MM](https://postimg.cc/7CmjSVpc/ece2cc0b)) | width=300)
+![Results](https://postimg.cc/7CmjSVpc/ece2cc0b | width=300)
 
 Disclaimer
 Please note that the provided results are based on the specific configuration and environment of the project. The actual performance of email and SMS sending may vary depending on factors such as server specifications, network conditions, and the implementation details of the email sending solution.
